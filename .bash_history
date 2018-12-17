@@ -190,3 +190,16 @@ git
 git
 cd /Users/ouhyou/Downloads/maven\_local\_repository/ant/ant/1\.6\.5
 mysql
+cd /Users/ouhyou
+git init
+cd ..
+cd ouhyou
+git init
+pwd
+touch aaa.txt
+bbb.txt
+git add aaa.txt
+git commit -m 修改aaa的文件
+cd /Users/ouhyou
+cd /Users/ouhyou
+ssh-keygen -t rsa
